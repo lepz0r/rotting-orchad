@@ -1,0 +1,40 @@
+* {
+
+ dracula-background: #282A36;
+ dracula-foreground: #F8F8F2;
+ dracula-selection:  #44475A;
+ dracula-comment:    #6272A4;
+ dracula-red:        #FF5555;
+ dracula-orange:     #FFB86C;
+ dracula-yellow:     #F1FA8C;
+ dracula-green:      #50FA7B;
+ dracula-purple:     #BD93F9;
+ dracula-cyan:       #8BE9FD;
+ dracula-pink:       #FF79C6;
+
+ black: #21222C;
+ red:   var(dracula-red);
+ green: var(dracula-green);
+ yellow: var(dracula-yellow);
+ blue: var(dracula-purple);
+ magenta: var(dracula-pink);
+ cyan: var(dracula-cyan);
+ white: var(dracula-foreground);
+ bright-black: var(dracula-comment);
+ bright-red: #FF6E6E;
+ bright-green: #69FF94;
+ bright-yellow: #FFFFA5;
+ bright-blue: #D6ACFF;
+ bright-magenta: #FF92DF;
+ bright-cyan: #A4FFFF;
+ bright-white: #FFFFFF;
+
+
+ background-transparent: rgba (40, 42, 54, 0.93);
+
+ background-color: var(background-transparent);
+ selected-normal-background: var(dracula-purple);
+ normal-foreground: var(dracula-foreground);
+ selected-normal-foreground: var(dracula-background);
+ input-background: var(black);
+}
