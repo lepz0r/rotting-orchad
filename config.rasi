@@ -35,7 +35,7 @@ entry {
 
 inputbar {
     padding: 9px 12px 9px;
-    margin:  12px 8px 12px;
+    margin:  14px 8px 14px;
     border-radius: 18px;
     text-color: var(normal-foreground);
     children:   [ "prompt","entry" ];
