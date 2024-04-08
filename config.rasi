@@ -1,7 +1,7 @@
 configuration {
  modi: "combi,run,";
  matching: "fuzzy";
- font: "FantasqueSansM Nerd Font 10";
+ font: "FantasqueSansM Nerd Font 11";
  show-icons: true;
  combi-modi: "drun,run";
  kb-mode-complete: "";
