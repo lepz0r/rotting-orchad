@@ -15,7 +15,7 @@
  highlight-low: #2a283e;
  highlight-med: #44415a;
  highlight-high: #56526e;
- base-transparent: rgba (35, 33, 54, 0.93);
+ base-transparent: rgba (35, 33, 54, 0.86);
 
  background-color: var(base-transparent);
  selected-normal-background: var(iris);

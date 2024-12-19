@@ -37,7 +37,7 @@
  gitsigns-add: #266d6a;                    
  gitsigns-delete: #b2555b;                 
                                           
- base-transparent: rgba(26, 27, 38, 0.93); 
+ base-transparent: rgba(26, 27, 38, 0.86); 
 
  background-color: var(base-transparent);
  selected-normal-background: var(blue);

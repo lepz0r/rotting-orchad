@@ -27,7 +27,7 @@
  mantle: #292c3c;
  crust: #232634;
 
- base-transparent: rgba (48, 52, 70, 0.93);
+ base-transparent: rgba (48, 52, 70, 0.86);
 
  background-color: var(base-transparent);
  selected-normal-background: var(flamingo);

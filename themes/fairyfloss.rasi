@@ -30,7 +30,7 @@
  bright-white: #FFFFFF;
 
 
- background-transparent: rgba (40, 42, 54, 0.86);
+ background-transparent: rgba (40, 42, 54, 0.93);
 
  background-color: var(background-transparent);
  selected-normal-background: var(dracula-purple);

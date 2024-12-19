@@ -26,7 +26,7 @@
  mantle: #1e2030;
  crust: #181926;
 
- base-transparent: rgba (36, 39, 58, 0.93);
+ base-transparent: rgba (36, 39, 58, 0.86);
 
  background-color: var(base-transparent);
  selected-normal-background: var(blue);
