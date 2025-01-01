@@ -1,0 +1,9 @@
+* {
+ base-transparent: rgba(67, 62, 86, 0.86);
+
+ background-color: var(base-transparent);
+ selected-normal-background: #FFB8D1;
+ normal-foreground: #F8F8F2;
+ selected-normal-foreground: #433E56;
+ input-background: #716799;
+}
