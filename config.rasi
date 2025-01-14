@@ -1,7 +1,7 @@
 configuration {
  modi: "combi,run,";
  matching: "fuzzy";
- font: "FantasqueSansM Nerd Font 11";
+ font: "MonaspiceNe Nerd Font 10";
  show-icons: true;
  combi-modi: "drun,run";
  kb-mode-complete: "";
@@ -22,9 +22,9 @@ configuration {
 @theme "rose-pine-moon"
 
 window {
-	border:           3;
+	border:           4;
 	border-radius:    12;
-	padding:          5;
+	padding:          8;
   children:   [ inputbar, listview ];
 }
 
@@ -34,9 +34,9 @@ entry {
 }
 
 inputbar {
-    padding: 9px 12px 9px;
-    margin:  14px 8px 14px;
-    border-radius: 18px;
+    padding: 12px 12px 12px;
+    margin:  16px 8px 16px;
+    border-radius: 20px;
     text-color: var(normal-foreground);
     children:   [ "prompt","entry" ];
     background-color:  var(input-background);
@@ -60,9 +60,9 @@ entry {
 }
 
 element {
-    padding: 6px 10px 6px;
+    padding: 8px 12px 8px;
     background-color: transparent;
-    border-radius: 15px;
+    border-radius: 16px;
 }
 
 alternate.normal {
