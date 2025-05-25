@@ -19,7 +19,7 @@ configuration {
  kb-remove-char-back: "BackSpace";
  }
 
-@theme "rose-pine-moon"
+@theme "catppuccin-frappe"
 
 window {
 	border:           4;

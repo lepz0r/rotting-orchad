@@ -30,7 +30,7 @@
  base-transparent: rgba (48, 52, 70, 0.86);
 
  background-color: var(base-transparent);
- selected-normal-background: var(flamingo);
+ selected-normal-background: var(blue);
  normal-foreground: var(text);
  selected-normal-foreground: var(base);
  input-background: var(surface0);
