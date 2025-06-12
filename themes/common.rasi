@@ -1,0 +1,62 @@
+window {
+	border:           3;
+	border-radius:    12;
+	padding:          5;
+  children:   [ inputbar, listview ];
+}
+
+entry {
+    placeholder: "Type here";
+    max-height:1px;
+}
+
+inputbar {
+    padding: 9px 12px 9px;
+    margin:  14px 8px 14px;
+    border-radius: 18px;
+    text-color: var(normal-foreground);
+    children:   [ "prompt","entry" ];
+    background-color:  var(input-background);
+}
+
+listview {
+    padding:      2px 8px 4px ;
+    background-color: transparent;
+    fixed-height: 0;
+    border:       0px;
+    scrollbar: false;
+}
+
+entry {
+    text-color:        var(normal-foreground);
+    cursor:            text;
+    spacing:           0;
+    placeholder-color: Gray;
+    placeholder:       "Search";
+    background-color: transparent;
+}
+
+element {
+    padding: 6px 10px 6px;
+    background-color: transparent;
+    border-radius: 15px;
+}
+
+alternate.normal {
+    background-color: transparent;
+    text-color: var(normal-foreground);
+}
+
+normal.normal {
+    background-color: transparent;
+    text-color: var(normal-foreground);
+}
+
+element selected.normal {
+    background-color: var(selected-normal-background);
+}
+
+selected {
+    background-color: transparent;
+    text-color:       var(selected-normal-foreground);
+}

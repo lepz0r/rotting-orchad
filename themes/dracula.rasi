@@ -38,3 +38,4 @@
  selected-normal-foreground: var(dracula-background);
  input-background: var(black);
 }
+@import "common"

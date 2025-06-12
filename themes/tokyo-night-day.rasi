@@ -46,3 +46,4 @@
  selected-normal-foreground: var(bg-dark);
  input-background: var(bg-dark);
 }
+@import "common"

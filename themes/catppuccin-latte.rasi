@@ -34,3 +34,4 @@
  selected-normal-foreground: var(base);
  input-background: var(surface0);
 }
+@import "common"

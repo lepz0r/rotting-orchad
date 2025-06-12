@@ -7,3 +7,4 @@
  selected-normal-foreground: #433E56;
  input-background: #716799;
 }
+@import "common"
